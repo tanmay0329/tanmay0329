@@ -1,3 +1,4 @@
+![Poster](https://github.com/user-attachments/assets/4cd87184-58c7-43d1-901e-78072013d781)
 <h1 align="center">Hi 👋, I'm Tanmay Bora</h1>
 <h3 align="center">VIT'26 || DD Robocon National 2024 Matlab 2024 || OpenCV(PyTorch) ROS || Jetson-Xavier || 2D Lidar Frontend Developer || C++ Leetcode 100+ Ethical Hacking Enthusiast</h3>
 
