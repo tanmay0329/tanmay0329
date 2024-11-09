@@ -28,9 +28,9 @@
 
 <!---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmay0329&show_icons=true&locale=en&layout=compact" alt="tanmay0329" /></p>-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tanmay0329&show_icons=true&locale=en" alt="tanmay0329" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay0329&show_icons=true&locale=en" alt="tanmay0329" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay0329&" alt="tanmay0329" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay0329&" alt="tanmay0329" /></p>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
