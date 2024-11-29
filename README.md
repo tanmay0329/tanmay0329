@@ -5,6 +5,8 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/60s1c6i6PpYAAAAM/wearelegend.gif">
 
+- 🌐 Check out my portfolio at [https://tanmay0329.github.io/Portfolio/](https://tanmay0329.github.io/Portfolio/)
+  
 - 🔭 I’m Currently gaining exp through **Hackathons and Competitions other than academics**
 
 - 🌱 I’m currently learning **Backend, LLM's, Ethical Hacking**
