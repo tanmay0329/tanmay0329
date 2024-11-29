@@ -132,12 +132,6 @@
     </div>
 </div>
 
-
-
-
-<!---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmay0329&show_icons=true&locale=en&layout=compact" alt="tanmay0329" /></p>-->
-
-
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -152,7 +146,7 @@
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay0329&" alt="tanmay0329" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay0329&langs_count=8&layout=compact" alt="tanmay0329" /></p>
-<p><img align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=tanmay0329&bg_color=ffffff&color=666666&line=2e2e2e&point=00cc00&area=true&area_color=2e2e2e&hide_border=true" alt="tanmay0329" /></p>
+<!-- <p><img align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=tanmay0329&bg_color=ffffff&color=666666&line=2e2e2e&point=00cc00&area=true&area_color=2e2e2e&hide_border=true" alt="tanmay0329" /></p>
 <p><img align="left" src="https://github-readme-quiz.vercel.app/api/quiz?username=tanmay0329" alt="tanmay0329" /></p>
-<p><img align="right" src="https://github-readme-trophies.vercel.app/?username=tanmay0329&theme=flat&no-frame=true&no-bg=true" alt="tanmay0329" /></p>
+<p><img align="right" src="https://github-readme-trophies.vercel.app/?username=tanmay0329&theme=flat&no-frame=true&no-bg=true" alt="tanmay0329" /></p> -->
 
