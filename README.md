@@ -169,12 +169,12 @@
       />
 </p>      
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=tanmay0329"
     alt="GitHub Streak Stats for tanmay0329"
   />
-</p>
+</p> -->
 
 
 ![](https://github-readme-stats.vercel.app/api?username=tanmay0329&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
