@@ -175,19 +175,7 @@
 
   <!-- Rounded GitHub Activity Graph -->
 
-<p align="center">
-      <img 
-        src="https://leetcard.jacoblin.cool/tan_may29?theme=light&ext=heatmap"
-        alt="LeetCode Stats for tan_may29"
-      />
-</p>  
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=tanmay0329"
-    alt="GitHub Streak Stats for tanmay0329"
-  />
-</p> 
 
 
 <!-- <p>
