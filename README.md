@@ -165,12 +165,10 @@
       <img 
         src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay0329&days=15&bg_color=ffffff&color=333333&line=2e2e2e&point=00cc00&area=true&hide_border=true"
         alt="GitHub Activity Graph"
+        width="55%"
       />
 </p>      
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tanmay0329" alt="tanmay0329" />
-</p>
 
 
 
