@@ -152,7 +152,9 @@
 </p>
 <p> -->
 <p align="right">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay0329&bg_color=ffffff&color=333333&line=2e2e2e&point=00cc00&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay0329&bg_color=ffffff&color=333333&line=2e2e2e&point=00cc00&area=true&hide_border=true" 
+      width="50%"
+      />
 </p>
 <p align="left">
   <img 
