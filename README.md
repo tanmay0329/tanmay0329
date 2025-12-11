@@ -164,7 +164,7 @@
     </td>
     <td width="50%">
       <img 
-        src="https://leetcode-status.vercel.app/api/card/tan_may29?theme=light&layout=card&border=true&hide_title=false&logo=true&logo_color=theme&animation=true&animation_duration=2s&show_stats=false&font=Roboto"
+        src="https://leetcard.jacoblin.cool/tan_may29?theme=light&ext=heatmap"
         alt="LeetCode Stats for tan_may29"
       />
     </td>
