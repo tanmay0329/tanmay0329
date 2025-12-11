@@ -154,23 +154,19 @@
 
 
   <!-- Rounded GitHub Activity Graph -->
-<table>
-  <tr>
-    <td width="50%">
-      <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay0329&days=15&bg_color=ffffff&color=333333&line=2e2e2e&point=00cc00&area=true&hide_border=true"
-        alt="GitHub Activity Graph"
-      />
-    </td>
-    <td width="50%">
+
+<p>
       <img 
         src="https://leetcard.jacoblin.cool/tan_may29?theme=light&ext=heatmap"
         alt="LeetCode Stats for tan_may29"
       />
-    </td>
-  </tr>
-</table>
-
+</p>  
+<p>
+      <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay0329&days=15&bg_color=ffffff&color=333333&line=2e2e2e&point=00cc00&area=true&hide_border=true"
+        alt="GitHub Activity Graph"
+      />
+</p>      
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tanmay0329" alt="tanmay0329" />
