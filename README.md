@@ -1,7 +1,7 @@
 ![Poster](https://github.com/user-attachments/assets/4cd87184-58c7-43d1-901e-78072013d781)
 <h1 align="center">Hi 👋, I'm Tanmay Bora</h1>
-<h3 align="center">VIT'26 || DD Robocon National 2024 Matlab 2024 || OpenCV(PyTorch) ROS || Jetson-Xavier || 2D Lidar <br> 
-    Frontend Developer || C++ Leetcode 100+ || Ethical Hacking Enthusiast</h3>
+<h3 align="center">SDE-intern @PraiseArray || Building AI, ML & Full-Stack Solutions || DD ROBOCON’25 AIR 3,’24 AIR 6, ROBOCON MATLAB Matworks Modelling Award & IHFC Robotics and AI Award’25 Winner <br>
+AI-Botics Hackathon’24 Winner</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/60s1c6i6PpYAAAAM/wearelegend.gif">
 
