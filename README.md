@@ -157,10 +157,12 @@
     width="45%"
     alt="LeetCode Stats for tan_may29"
   />
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay0329&days=15&bg_color=ffffff&color=333333&line=2e2e2e&point=00cc00&area=true&hide_border=true"
-    width="45%"
-  />
+  <div style="border-radius: 12px; overflow: hidden; width: 48%;">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay0329&days=15&bg_color=ffffff&color=333333&line=2e2e2e&point=00cc00&area=true&hide_border=true"
+      width="100%"
+    />
+  </div>
 </div>
 
 
