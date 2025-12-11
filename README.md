@@ -153,5 +153,9 @@
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay0329&bg_color=ffffff&color=333333&line=2e2e2e&point=00cc00&area=true&hide_border=true" />
 </p>
+### 🧠 LeetCode Stats
+<p align="center">
+  <img src="https://leetcode-status.vercel.app/api?username=tan_may29&theme=tokyonight" />
+</p>
 
 
