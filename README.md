@@ -177,12 +177,12 @@
 </p> 
 
 
-<p>
+<!-- <p>
   <img 
     align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay0329&langs_count=8&layout=compact&cache_seconds=1"
   />
-</p>
+</p> -->
 
 
 
