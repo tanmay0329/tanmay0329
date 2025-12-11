@@ -169,7 +169,12 @@
       />
 </p>      
 
-
+<p>
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay0329"
+        alt="Github Stats for tanmay0329"
+      />
+</p> 
 
 
 
