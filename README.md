@@ -151,17 +151,27 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tanmay0329" alt="tanmay0329" />
 </p>
 <p> -->
-<div style="display: flex; justify-content: space-between; align-items: center; margin-right: 1.5;">
-  <img 
-    src="https://leetcode-status.vercel.app/api/card/tan_may29?theme=light&layout=card&border=true&hide_title=false&logo=true&logo_color=theme&animation=true&animation_duration=2s&show_stats=false&font=Roboto"
-    width="48%"
-    alt="LeetCode Stats for tan_may29"
-  />
+<div style="display: flex; justify-content: space-between; align-items: center;">
+
+  <!-- Rounded GitHub Activity Graph -->
+  <div style="border-radius: 12px; overflow: hidden; width: 48%; margin-right: 1.5%;">
     <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay0329&days=10&bg_color=ffffff&color=333333&line=2e2e2e&point=00cc00&area=true&hide_border=true"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay0329&days=15&bg_color=ffffff&color=333333&line=2e2e2e&point=00cc00&area=true&hide_border=true"
       width="48%"
     />
+  </div>
+
+  <!-- Rounded LeetCode Stats -->
+  <div style="border-radius: 12px; overflow: hidden; width: 48%;">
+    <img 
+      src="https://leetcode-status.vercel.app/api/card/tan_may29?theme=light&layout=card&border=true&hide_title=false&logo=true&logo_color=theme&animation=true&animation_duration=2s&show_stats=false&font=Roboto"
+      width="48%"
+      alt="LeetCode Stats for tan_may29"
+    />
+  </div>
+
 </div>
+
 
 
 
