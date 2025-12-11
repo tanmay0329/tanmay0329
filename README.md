@@ -132,7 +132,6 @@ AI-Botics Hackathon’24 Winner</h3>
             </a>
         </p>
     </div>
-</td>
 <td width="100%" align="right">
     <p>
       <img 
