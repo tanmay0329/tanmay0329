@@ -140,10 +140,10 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
   <img src="https://images.credly.com/size/680x680/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" width="100px" height="100px" /></a>
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tanmay0329&show_icons=true&locale=en" alt="tanmay0329" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tanmay0329&show_icons=true&locale=en" alt="tanmay0329" /></p> -->
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay0329&langs_count=8&layout=compact" alt="tanmay0329" /></p>
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay0329&" alt="tanmay0329" /></p>
+<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay0329&langs_count=8&layout=compact" alt="tanmay0329" /></p>
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay0329&" alt="tanmay0329" /></p> -->
 <!-- <p><img align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=tanmay0329&bg_color=ffffff&color=666666&line=2e2e2e&point=00cc00&area=true&area_color=2e2e2e&hide_border=true" alt="tanmay0329" /></p>
 <p><img align="left" src="https://github-readme-quiz.vercel.app/api/quiz?username=tanmay0329" alt="tanmay0329" /></p>
 <p><img align="right" src="https://github-readme-trophies.vercel.app/?username=tanmay0329&theme=flat&no-frame=true&no-bg=true" alt="tanmay0329" /></p> -->
