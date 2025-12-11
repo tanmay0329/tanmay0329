@@ -155,7 +155,7 @@
 
   <!-- Rounded GitHub Activity Graph -->
 
-<p>
+<p align="center">
       <img 
         src="https://leetcard.jacoblin.cool/tan_may29?theme=light&ext=heatmap"
         alt="LeetCode Stats for tan_may29"
