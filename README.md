@@ -160,6 +160,7 @@
   <img 
     src="https://leetcode-status.vercel.app/api/card/tan_may29?theme=light&layout=card&border=true&hide_title=false&logo=true&logo_color=theme&animation=true&animation_duration=2s&show_stats=false&font=Roboto" 
     alt="LeetCode Stats for tan_may29"
+      width="70%"
   />
 </p>
 
