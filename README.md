@@ -141,7 +141,7 @@
   <img src="https://images.credly.com/size/680x680/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" width="100px" height="100px" /></a>
 </div>
 
-<p>
+<!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tanmay0329&show_icons=true&locale=en" alt="tanmay0329" />
 </p>
 <p>
@@ -150,7 +150,7 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tanmay0329" alt="tanmay0329" />
 </p>
-<p>
+<p> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay0329&bg_color=ffffff&color=333333&line=2e2e2e&point=00cc00&area=true&hide_border=true" />
 </p>
 <p align="left">
