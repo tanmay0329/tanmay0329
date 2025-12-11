@@ -27,6 +27,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<table>
+    <tr>
+        <td width="40%">
+        
 <div style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%;">
     <div style="flex: 1; display: flex; flex-wrap: wrap; gap: 10px;">
         <!-- Left Part: Programming Languages, Frontend, Backend, and Database -->
@@ -128,7 +132,23 @@
             </a>
         </p>
     </div>
+</td>
+<td width="100%" align="right">
+    <p>
+      <img 
+        src="https://leetcard.jacoblin.cool/tan_may29?theme=light&ext=heatmap"
+        alt="LeetCode Stats for tan_may29"
+      />
+<p>
+  <img 
+    src="https://streak-stats.demolab.com?user=tanmay0329"
+    alt="GitHub Streak Stats for tanmay0329"
+  />
+</p> 
+</td>
 </div>
+</tr>
+</table>
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -161,13 +181,6 @@
         alt="LeetCode Stats for tan_may29"
       />
 </p>  
-<!-- <p>
-      <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay0329&days=15&bg_color=ffffff&color=333333&line=2e2e2e&point=00cc00&area=true&hide_border=true"
-        alt="GitHub Activity Graph"
-        width="55%"
-      />
-</p>       -->
 
 <p align="center">
   <img 
