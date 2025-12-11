@@ -151,10 +151,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tanmay0329" alt="tanmay0329" />
 </p>
 <p> -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
 
-  <!-- Rounded GitHub Activity Graph -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
 
   <!-- Rounded GitHub Activity Graph -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
