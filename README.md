@@ -161,26 +161,23 @@
         alt="LeetCode Stats for tan_may29"
       />
 </p>  
-<p>
+<!-- <p>
       <img 
         src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay0329&days=15&bg_color=ffffff&color=333333&line=2e2e2e&point=00cc00&area=true&hide_border=true"
         alt="GitHub Activity Graph"
         width="55%"
       />
-</p>      
+</p>       -->
 
-<!-- <p align="center">
+<p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=tanmay0329"
     alt="GitHub Streak Stats for tanmay0329"
   />
-</p> -->
+</p> 
 
 
-![](https://github-readme-stats.vercel.app/api?username=tanmay0329&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com?user=tanmay0329&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay0329&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://visitcount.itsvg.in/api?id=tanmay0329&icon=0&color=0)
+
 
 
 
