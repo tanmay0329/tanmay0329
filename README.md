@@ -154,22 +154,23 @@
 
 
   <!-- Rounded GitHub Activity Graph -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  
-  <!-- Right-Aligned GitHub Activity Graph -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay0329&days=15&bg_color=ffffff&color=333333&line=2e2e2e&point=00cc00&area=true&hide_border=true"
-    width="45%"
-  />
+<table>
+  <tr>
+    <td width="50%">
+      <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay0329&days=15&bg_color=ffffff&color=333333&line=2e2e2e&point=00cc00&area=true&hide_border=true"
+        alt="GitHub Activity Graph"
+      />
+    </td>
+    <td width="50%">
+      <img 
+        src="https://leetcode-status.vercel.app/api/card/tan_may29?theme=light&layout=card&border=true&hide_title=false&logo=true&logo_color=theme&animation=true&animation_duration=2s&show_stats=false&font=Roboto"
+        alt="LeetCode Stats for tan_may29"
+      />
+    </td>
+  </tr>
+</table>
 
-  <!-- Left-Aligned LeetCode Stats -->
-  <img 
-    src="https://leetcode-status.vercel.app/api/card/tan_may29?theme=light&layout=card&border=true&hide_title=false&logo=true&logo_color=theme&animation=true&animation_duration=2s&show_stats=false&font=Roboto"
-    width="45%"
-    alt="LeetCode Stats for tan_may29"
-  />
-
-</div>
 
 
 
