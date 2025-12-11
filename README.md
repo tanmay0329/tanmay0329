@@ -154,6 +154,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay0329&bg_color=ffffff&color=333333&line=2e2e2e&point=00cc00&area=true&hide_border=true" />
 </p>
 ### 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcode-status.vercel.app/api/card/tan_may29?theme=light&layout=card&border=true&hide_title=false&logo=true&logo_color=theme&animation=true&animation_duration=2s&show_stats=false&font=Roboto)
+<p align="center">
+  <img 
+    src="https://leetcode-status.vercel.app/api/card/tan_may29?theme=light&layout=card&border=true&hide_title=false&logo=true&logo_color=theme&animation=true&animation_duration=2s&show_stats=false&font=Roboto" 
+    alt="LeetCode Stats for tan_may29"
+  />
+</p>
+
 
 
